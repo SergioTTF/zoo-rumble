@@ -1,0 +1,178 @@
+{
+  "bear": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -62,
+    "starYs": {
+      "left": -62,
+      "front": -79,
+      "rear": -78,
+      "right": -62
+    }
+  },
+  "rabbit": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -68,
+    "starYs": {
+      "left": -68,
+      "front": -68,
+      "rear": -68,
+      "right": -68
+    }
+  },
+  "wolf": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -62,
+    "starYs": {
+      "left": -62,
+      "front": -91,
+      "rear": -74,
+      "right": -62
+    }
+  },
+  "dog": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -60,
+    "starYs": {
+      "left": -60,
+      "front": -85,
+      "rear": -70,
+      "right": -60
+    }
+  },
+  "fox": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -60,
+    "starYs": {
+      "left": -60,
+      "front": -71,
+      "rear": -71,
+      "right": -60
+    }
+  },
+  "hyena": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -65,
+    "starYs": {
+      "left": -63,
+      "front": -91,
+      "rear": -79,
+      "right": -65
+    }
+  },
+  "chicken": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -53,
+    "starYs": {
+      "left": -51,
+      "front": -70,
+      "rear": -61,
+      "right": -53
+    }
+  },
+  "penguin": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -62,
+    "starYs": {
+      "left": -61,
+      "front": -76,
+      "rear": -64,
+      "right": -62
+    }
+  },
+  "eagle": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -62,
+    "starYs": {
+      "left": -59,
+      "front": -82,
+      "rear": -72,
+      "right": -62
+    }
+  },
+  "monkey": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -67,
+    "starYs": {
+      "left": -68,
+      "front": -77,
+      "rear": -75,
+      "right": -67
+    }
+  },
+  "baboon": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -64,
+    "starYs": {
+      "left": -62,
+      "front": -88,
+      "rear": -73,
+      "right": -64
+    }
+  },
+  "gorilla": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -80,
+    "starYs": {
+      "left": -81,
+      "front": -93,
+      "rear": -94,
+      "right": -80
+    }
+  },
+  "jackal": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -67,
+    "starYs": {
+      "left": -67,
+      "front": -75,
+      "rear": -80,
+      "right": -67
+    }
+  },
+  "parrot": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -53,
+    "starYs": {
+      "left": -54,
+      "front": -61,
+      "rear": -68,
+      "right": -53
+    }
+  },
+  "owl": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -55,
+    "starYs": {
+      "left": -56,
+      "front": -76,
+      "rear": -61,
+      "right": -55
+    }
+  },
+  "chimpanzee": {
+    "frameSize": 128,
+    "foot": 120,
+    "starY": -64,
+    "starYs": {
+      "left": -62,
+      "front": -88,
+      "rear": -74,
+      "right": -64
+    }
+  }
+}

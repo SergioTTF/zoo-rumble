@@ -1,0 +1,146 @@
+{
+  "bear": {
+    "source": "bear-directional-user.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 116,
+    "scale": 0.40138,
+    "runtimeBytes": 195282
+  },
+  "rabbit": {
+    "source": "rabbit-directional-user.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 80,
+    "scale": 0.35088,
+    "runtimeBytes": 129640
+  },
+  "wolf": {
+    "source": "wolf-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 108,
+    "scale": 0.3661,
+    "runtimeBytes": 173871
+  },
+  "dog": {
+    "source": "dog-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 100,
+    "scale": 0.32154,
+    "runtimeBytes": 164477
+  },
+  "fox": {
+    "source": "fox-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 100,
+    "scale": 0.33333,
+    "runtimeBytes": 162434
+  },
+  "hyena": {
+    "source": "hyena-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 108,
+    "scale": 0.36364,
+    "runtimeBytes": 202768
+  },
+  "chicken": {
+    "source": "chicken-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 80,
+    "scale": 0.27211,
+    "runtimeBytes": 111304
+  },
+  "penguin": {
+    "source": "penguin-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 88,
+    "scale": 0.30241,
+    "runtimeBytes": 120979
+  },
+  "eagle": {
+    "source": "eagle-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 96,
+    "scale": 0.32107,
+    "runtimeBytes": 161731
+  },
+  "monkey": {
+    "source": "monkey-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 92,
+    "scale": 0.34717,
+    "runtimeBytes": 163720
+  },
+  "baboon": {
+    "source": "baboon-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 104,
+    "scale": 0.34667,
+    "runtimeBytes": 188165
+  },
+  "gorilla": {
+    "source": "gorilla-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 116,
+    "scale": 0.42029,
+    "runtimeBytes": 265227
+  },
+  "jackal": {
+    "source": "jackal-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 100,
+    "scale": 0.34364,
+    "runtimeBytes": 183173
+  },
+  "parrot": {
+    "source": "parrot-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 96,
+    "scale": 0.30769,
+    "runtimeBytes": 123638
+  },
+  "owl": {
+    "source": "owl-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 88,
+    "scale": 0.28852,
+    "runtimeBytes": 145857
+  },
+  "chimpanzee": {
+    "source": "chimpanzee-directional-v1.png",
+    "frames": 16,
+    "frameSize": 128,
+    "footOrigin": 120,
+    "targetPixels": 104,
+    "scale": 0.34551,
+    "runtimeBytes": 176944
+  }
+}

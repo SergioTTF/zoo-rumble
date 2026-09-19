@@ -1,0 +1,114 @@
+{
+  "bear": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.625,
+    "bytes": 786794
+  },
+  "rabbit": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.56716,
+    "bytes": 548002
+  },
+  "wolf": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.575,
+    "bytes": 682535
+  },
+  "dog": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.50382,
+    "bytes": 613342
+  },
+  "fox": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.54918,
+    "bytes": 634173
+  },
+  "hyena": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.59664,
+    "bytes": 782703
+  },
+  "chicken": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.41985,
+    "bytes": 416671
+  },
+  "penguin": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.49275,
+    "bytes": 496492
+  },
+  "eagle": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.5,
+    "bytes": 655852
+  },
+  "monkey": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 11,
+    "frames": 64,
+    "scale": 0.56934,
+    "bytes": 641610
+  },
+  "baboon": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.56557,
+    "bytes": 690241
+  },
+  "gorilla": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 11,
+    "frames": 64,
+    "scale": 0.60825,
+    "bytes": 904207
+  },
+  "jackal": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.53147,
+    "bytes": 672801
+  },
+  "parrot": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.47934,
+    "bytes": 486108
+  },
+  "owl": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.47287,
+    "bytes": 581634
+  },
+  "chimpanzee": {
+    "sourceSize": [724, 2172],
+    "sourceRows": 12,
+    "frames": 64,
+    "scale": 0.56098,
+    "bytes": 644071
+  }
+}
